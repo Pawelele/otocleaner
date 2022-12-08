@@ -43,11 +43,6 @@
   transform: translate(-50%, -55%);
   width: 80%;
   height: 80%;
-  -webkit-box-shadow: 6px 4px 27px -6px rgba(66, 68, 90, 1);
-  -moz-box-shadow: 6px 4px 27px -6px rgba(66, 68, 90, 1);
-  box-shadow: 6px 4px 27px -6px rgba(66, 68, 90, 1);
-  /* transition: cubic-bezier(0.895, 0.03, 0.685, 0.22);
-  transition-duration: 5s; */
 }
 
 .prez {
